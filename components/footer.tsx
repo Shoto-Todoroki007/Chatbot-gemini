@@ -13,10 +13,10 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
       {...props}
     >
       Project is made by Bharat and team {' '}
-      <ExternalLink href="https://cloud.google.com/vertex-ai">
+      <ExternalLink href="https://github.com/Shoto-Todoroki007">
         Github
       </ExternalLink> and{' '}For more Information DM me on {' '} 
-      <ExternalLink href="https://github.com/vercel/ai">
+      <ExternalLink href="https://www.instagram.com/choudhary_ji_2608/">
         Instagram
       </ExternalLink>
       .
